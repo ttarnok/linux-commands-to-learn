@@ -3,7 +3,7 @@
 ## Terminal
 - A shell is a program that takes commands from the user and gives them to the os kernel to execute it.
 - Linux is case senitive.
-- `sudo apt update && sudo apt install vim` => To install and application.
+- `sudo apt update && sudo apt install vim` => To install an application.
 
 ### Getting help
 
