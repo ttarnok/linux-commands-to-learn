@@ -1,3 +1,5 @@
+[Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible/tree/master/manuscript)
+
 # linux-commands-to-learn
 
 ## Terminal
