@@ -1,4 +1,4 @@
-[Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible/tree/master/manuscript)
+[Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible/tree/master)
 
 # linux-commands-to-learn
 
